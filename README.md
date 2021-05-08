@@ -52,4 +52,20 @@ const user = {
   },
 }
 ```
-</h3>>
+</h3>
+
+
+<h1 align="center"> 📊 Stats: </h1>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=HappySuhag&show_icons=true&bg_color=0d1117&text_color=FFF" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySuhag&layout=compact&bg_color=0d1117&text_color=FFF"  height="165">
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HappySuhag&bg_color=0d1117&text_color=FFF">
+  </a>
+</p>
